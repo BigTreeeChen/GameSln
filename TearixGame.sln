@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TearixGame", "TearixGame.csproj", "{824A60B1-8F29-A873-A071-A5AE1BA67CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TearixGame.Editor", "TearixGame.Editor.csproj", "{33047D78-4C52-A91B-C69E-200EFBDA0DE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{824A60B1-8F29-A873-A071-A5AE1BA67CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824A60B1-8F29-A873-A071-A5AE1BA67CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824A60B1-8F29-A873-A071-A5AE1BA67CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824A60B1-8F29-A873-A071-A5AE1BA67CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33047D78-4C52-A91B-C69E-200EFBDA0DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33047D78-4C52-A91B-C69E-200EFBDA0DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33047D78-4C52-A91B-C69E-200EFBDA0DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33047D78-4C52-A91B-C69E-200EFBDA0DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
