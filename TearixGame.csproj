@@ -78,6 +78,7 @@
     <Compile Include="Assets\Scripts\Core\Component\Component.cs" />
     <Compile Include="Assets\Scripts\Core\Component\ComponentAniSelector.cs" />
     <Compile Include="Assets\Scripts\Core\Component\ComponentRoot.cs" />
+    <Compile Include="Assets\Scripts\Core\Component\ComponentState.cs" />
     <Compile Include="Assets\Scripts\Core\MVC\Controller\Controller.cs" />
     <Compile Include="Assets\Scripts\Core\MVC\Model\Model.cs" />
     <Compile Include="Assets\Scripts\Core\MVC\Notify\Nofitier.cs" />
@@ -132,6 +133,8 @@
     <Compile Include="Assets\Scripts\Setting\sculpt.cs" />
     <Compile Include="Assets\Scripts\Setting\skill.cs" />
     <Compile Include="Assets\Scripts\Setting\skill_effect.cs" />
+    <Compile Include="Assets\Scripts\State\StateBase.cs" />
+    <Compile Include="Assets\Scripts\State\StateDefine.cs" />
     <Compile Include="Assets\Scripts\T4M\Scripts\T4MBillBObjSC.cs" />
     <Compile Include="Assets\Scripts\T4M\Scripts\T4MLodObjSC.cs" />
     <Compile Include="Assets\Scripts\T4M\Scripts\T4MObjSC.cs" />
@@ -339,6 +342,7 @@
     <None Include="Assets\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
     <None Include="Assets\ThirdParty\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
     <None Include="Assets\doc\TearixGame开发准备.txt" />
+    <None Include="Assets\doc\git几个命令.txt" />
     <None Include="Assets\doc\readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
